@@ -12,4 +12,9 @@ Ao final do vídeo, você terá uma compreensão sólida de como acelerar algori
 Não se esqueça de se inscrever no canal, deixar seu like e compartilhar o vídeo com outros entusiastas da programação. Prepare-se para levar suas habilidades em Python para o próximo nível com essa poderosa técnica de aceleração!
 
 MSVC:  https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&workload=dotnet-dotnetwebcloud&passive=false#dotnet
+```
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build\vcvarsall.bat" x64
 
+"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\Hostx86\x64\cl.exe" /std:c++20 /fp:fast /EHsc /Oi /Ot /Oy /Ob3 /GF /Gy /MD /openmp /LD C:\cppcode\cppimagecolorsearch.cpp /Fe:C:\cppcode\cppimagecolorsearch.dll
+
+```
