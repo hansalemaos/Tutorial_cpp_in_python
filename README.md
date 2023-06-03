@@ -1,3 +1,8 @@
+### Tutorial (Brazilian Portuguese)
+
+[![YT](https://i.ytimg.com/vi/ChZ9753o690/maxresdefault.jpg)](https://www.youtube.com/watch?v=ChZ9753o690)
+[https://www.youtube.com/watch?v=ChZ9753o690]()
+
 Neste vídeo, vamos explorar uma técnica poderosa para acelerar o desempenho de algoritmos em Python utilizando C++. 
 Vamos abordar especificamente a busca de cores em imagens e demonstrar como essa tarefa pode ser otimizada com a integração entre Python e C++.
 
